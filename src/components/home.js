@@ -13,19 +13,21 @@ const Home = () => {
                 <div class="card bg-dark col-md-5 p-1">
                     <img src={carne} class="card-img-top" alt="fish"/>
                     <div class="card-body">
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p class="card-text">Carne Asada: 
+                        Grilled steak cooked with onions, served with rice beans and guacamole.</p>
                     </div>
                 </div>
                 <div class="card bg-dark col-md-5 p-1">
                     <img src={taco} class="card-img-top" alt="fish"/>
                     <div class="card-body">
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p class="card-text">Build your own Mexican Tacos: avocado, onions, cilantro, cucumber and spicy sauce.</p>
                     </div>
                 </div>
                 <div class="card bg-dark col-md-8 p-1 m-2">
                     <img src={fish} class="card-img-top" alt="fish"/>
                     <div class="card-body">
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p class="card-text">Moharra Frita:
+                        Whole fried tilapia served with rice pico de gallo and guacamole salad.</p>
                     </div>
                 </div>
             </div>
