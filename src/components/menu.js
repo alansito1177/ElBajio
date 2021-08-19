@@ -96,6 +96,15 @@ return  (
             <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
                 <div class="ms-2 me-auto">
                     <div class="fw-bold">
+                        Texas Fajitas
+                    </div>
+                    Steak, grill chicken, and shrimp with mix bell peppers, onions with a side of rice, beans, and pico de gallo salad
+                </div>
+                <div class="text-left">$16.99</div>
+            </li>
+            <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">
                         Veggie Taco Salad
                     </div>
                     Crispy flour tortilla bowl filled with<br/>
@@ -162,7 +171,7 @@ return  (
                     <div class="fw-bold">
                         Meat and Cheese Quesadilla
                     </div>
-                        desc.
+                        Quesadilla filled with your choice protein <br/>of chicken or steak.
                 </div>
                 <div class="text-left">$8.49</div>
             </li>
@@ -171,7 +180,7 @@ return  (
                     <div class="fw-bold">
                         Veggie Quesadilla
                     </div>
-                        desc.
+                        Quesadilla filled with veggies
                 </div>
                 <div class="text-right">$7.99</div>
             </li>
@@ -180,7 +189,7 @@ return  (
                     <div class="fw-bold">
                         Fajita Quesadilla
                     </div>
-                        desc.
+                        Quesadilla with choice of shrimp, steak,<br/> or chicken fajita inside
                 </div>
                 <div class="text-left">$9.99</div>
             </li>
@@ -192,7 +201,7 @@ return  (
                     <div class="fw-bold">
                         Costilla de Puerco en Salsa Verde
                     </div>
-                        desc.
+                        Pork Ribs served in spicy green salsa
                 </div>
                 <div class="text-left">$12.99</div>
             </li>
@@ -201,7 +210,7 @@ return  (
                     <div class="fw-bold">
                         Carne Asada
                     </div>
-                        desc.
+                    Grilled steak cooked with onions ,served with rice beans and guacamole
                 </div>
                 <div class="text-left">$14.96</div>
             </li>
@@ -210,7 +219,7 @@ return  (
                     <div class="fw-bold">
                         Pechuga a La Plancha
                     </div>
-                        desc.
+                        2 grilled chicken breast served with rice and beans
                 </div>
                 <div class="text-left">$12.25</div>
             </li>
@@ -219,7 +228,7 @@ return  (
                     <div class="fw-bold">
                         Pechuga Empanizada
                     </div>
-                        desc.
+                        2 breaded and fried chicken breast served with rice and beans
                 </div>
                 <div class="text-left">$12.99</div>
             </li>
@@ -228,7 +237,7 @@ return  (
                     <div class="fw-bold">
                         Chicken Hawaiano
                     </div>
-                        desc.
+                        grilled chicken breast, bacon, pineapple,melted fresh mozzarella
                 </div>
                 <div class="text-left">$14.99</div>
             </li>
@@ -237,7 +246,7 @@ return  (
                     <div class="fw-bold">
                         Pollo o Camarones a La Diabla
                     </div>
-                        desc.
+                        Sauteed Chicken or shrimp and onions in a hot and spicy sauce
                 </div>
                 <div class="text-left">$14.99</div>
             </li>
@@ -246,7 +255,7 @@ return  (
                     <div class="fw-bold">
                         Moharra Frita
                     </div>
-                        desc.
+                        Whole fried tilapia served with rice pico de gallo and guacamole salad
                 </div>
                 <div class="text-left">$13.00</div>
             </li>
@@ -255,7 +264,7 @@ return  (
                     <div class="fw-bold">
                         Flautas
                     </div>
-                        desc.
+                        5 corn  chicken taquitos , topped with beans, lettuce, sour cream, cheese, and slice of tomato
                 </div>
                 <div class="text-left">$9.99</div>
             </li>
@@ -264,7 +273,7 @@ return  (
                     <div class="fw-bold">
                         Tostadas de Tinga
                     </div>
-                        desc.
+                    3 crispy fried tortilla topped with beans, tinga chicken, cabbage, cheese, onions and slice of tomato
                 </div>
                 <div class="text-left">$9.99</div>
             </li>
@@ -273,7 +282,7 @@ return  (
                     <div class="fw-bold">
                         Caldo  de Camaron
                     </div>
-                        desc.
+                    Red shrimp soup
                 </div>
                 <div class="text-left">$13.99</div>
             </li>
@@ -282,7 +291,7 @@ return  (
                     <div class="fw-bold">
                         7 Mares
                     </div>
-                        desc.
+                    Guajillo soup, seafood mix, crab legs and tilapia
                 </div>
                 <div class="text-left">$16.00</div>
             </li>
@@ -291,9 +300,18 @@ return  (
                     <div class="fw-bold">
                         Cocktail de Camaron
                     </div>
-                        desc.
+                    Shrimp, tomato juice, pico de gallo,and avocado slices
                 </div>
                 <div class="text-left">$13.99</div>
+            </li>
+            <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">
+                        Alambres
+                    </div>
+                        Steak and chicken with chorizo, pineapple, bell peppers, and onions topped with mozzarella cheese 
+                </div>
+                <div class="text-left">$25.99</div>
             </li>
             
             <h5 class="text-center text-success">Fajitas</h5>
@@ -303,7 +321,7 @@ return  (
                     <div class="fw-bold">
                         Chicken Fajita
                     </div>
-                        desc.
+                        Grill chicken with mix bell peppers, onions with a side of rice, beans, and pico de gallo salad
                 </div>
                 <div class="text-left">$13.00</div>
             </li>
@@ -312,7 +330,7 @@ return  (
                     <div class="fw-bold">
                         Steak Fajita
                     </div>
-                        desc.
+                    Steak with mix bell peppers, onions with a side of rice, beans, and pico de gallo salad
                 </div>
                 <div class="text-left">$16.99</div>
             </li>
@@ -321,7 +339,7 @@ return  (
                     <div class="fw-bold">
                         Shrimp Fajita
                     </div>
-                        desc.
+                    Shrimp with mix bell peppers, onions with a side of rice, beans, and pico de gallo salad
                 </div>
                 <div class="text-left">$16.99</div>
             </li>
@@ -330,7 +348,7 @@ return  (
                     <div class="fw-bold">
                         Steak and Chicken Fajita
                     </div>
-                        desc.
+                    Steak and Grill Chicken with mix bell peppers, onions with a side of rice, beans, and pico de gallo salad
                 </div>
                 <div class="text-left">$16.99</div>
             </li>
@@ -339,7 +357,7 @@ return  (
                     <div class="fw-bold">
                         Fahitas Para Dos
                     </div>
-                        desc.
+                    Double portion of a fajitas of your choosing with mix bell peppers, onions with a side of rice, beans, and pico de gallo salad
                 </div>
                 <div class="text-left">$25.99</div>
             </li>
@@ -350,7 +368,6 @@ return  (
                     <div class="fw-bold">
                         Rice and Beans
                     </div>
-                        desc.
                 </div>
                 <div class="text-left">$3.50</div>
             </li>
@@ -359,7 +376,6 @@ return  (
                     <div class="fw-bold">
                         Black beans, Refried Beans, or Rice
                     </div>
-                        desc.
                 </div>
                 <div class="text-left">$2.00</div>
             </li>
@@ -368,7 +384,6 @@ return  (
                     <div class="fw-bold">
                         Tortillas
                     </div>
-                        desc.
                 </div>
                 <div class="text-left">$1.00</div>
             </li>
@@ -377,7 +392,6 @@ return  (
                     <div class="fw-bold">
                         French fries
                     </div>
-                        desc.
                 </div>
                 <div class="text-left">$3.49</div>
             </li>
@@ -386,7 +400,6 @@ return  (
                     <div class="fw-bold">
                         Rice and Cheese Dip
                     </div>
-                        desc.
                 </div>
                 <div class="text-left">$2.99</div>
             </li>
@@ -395,7 +408,6 @@ return  (
                     <div class="fw-bold">
                         Sour Cream
                     </div>
-                        desc.
                 </div>
                 <div class="text-left">$1.00</div>
             </li>
@@ -404,7 +416,6 @@ return  (
                     <div class="fw-bold">
                         Pico de Gallo
                     </div>
-                        desc.
                 </div>
                 <div class="text-left">$1.00</div>
             </li>
@@ -413,7 +424,6 @@ return  (
                     <div class="fw-bold">
                         Avocado Slices
                     </div>
-                        desc.
                 </div>
                 <div class="text-left">$1.50</div>
             </li>
@@ -421,7 +431,7 @@ return  (
 
 
 
-        <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
+            {/* <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
                 <div class="ms-2 me-auto">
                     <div class="fw-bold">
                         title
@@ -429,7 +439,7 @@ return  (
                         desc.
                 </div>
                 <div class="text-left">price</div>
-            </li>
+            </li> */}
         </ul>
     </div>
 )

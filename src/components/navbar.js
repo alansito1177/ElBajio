@@ -19,9 +19,9 @@ const navbar = () => {
                 <li>
                     <Link class="nav-link text-white" to="/contact">Contact Us</Link>
                 </li>
-                <li>
+                {/* <li>
                     <Link class="nav-link text-white" to="/delivery">Delivery</Link>
-                </li>
+                </li> */}
 
             </ul>
         </div>

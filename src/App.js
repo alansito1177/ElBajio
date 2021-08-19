@@ -29,7 +29,7 @@ function App() {
           <Route exact path="/delivery">
           <Delivery />
           </Route>
-          <Route exact path="/">
+          <Route path="/">
           <Home />
           </Route>
         
