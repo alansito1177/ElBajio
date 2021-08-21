@@ -13,6 +13,7 @@ const Home = () => {
     <div>
         <div class="container">
             <img src={logo} class="img-fluid p-3" />
+            <p>Location: 400 Hawthorne Ave Athens, Ga 30606</p>
             <div class="row justify-content-evenly">
                 <div class="card bg-dark col-md-5 p-1">
                     <img src={carne} class="card-img-top" alt="fish"/>
