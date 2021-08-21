@@ -3,6 +3,10 @@ import logo from "../images/logo.png";
 import fish from "../images/fish.jpg";
 import carne from "../images/carne.jpg";
 import taco from "../images/taco.jpg";
+import bistec from "../images/bistec.jpg";
+import puerco from "../images/puerco.jpg";
+import cocktail from "../images/cocktail.jpg";
+import camaron from "../images/camaron.jpg";
 
 const Home = () => {
     return (
@@ -25,6 +29,34 @@ const Home = () => {
                 </div>
                 <div class="card bg-dark col-md-8 p-1 m-2">
                     <img src={fish} class="card-img-top" alt="fish"/>
+                    <div class="card-body">
+                        <p class="card-text">Mojarra Frita:
+                        Whole fried tilapia served with rice pico de gallo and guacamole salad.</p>
+                    </div>
+                </div>
+                <div class="card bg-dark col-md-8 p-1 m-2">
+                    <img src={cocktail} class="card-img-top" alt="fish"/>
+                    <div class="card-body">
+                        <p class="card-text">Mojarra Frita:
+                        Whole fried tilapia served with rice pico de gallo and guacamole salad.</p>
+                    </div>
+                </div>
+                <div class="card bg-dark col-md-8 p-1 m-2">
+                    <img src={bistec} class="card-img-top" alt="fish"/>
+                    <div class="card-body">
+                        <p class="card-text">Mojarra Frita:
+                        Whole fried tilapia served with rice pico de gallo and guacamole salad.</p>
+                    </div>
+                </div>
+                <div class="card bg-dark col-md-8 p-1 m-2">
+                    <img src={puerco} class="card-img-top" alt="fish"/>
+                    <div class="card-body">
+                        <p class="card-text">Mojarra Frita:
+                        Whole fried tilapia served with rice pico de gallo and guacamole salad.</p>
+                    </div>
+                </div>
+                <div class="card bg-dark col-md-8 p-1 m-2">
+                    <img src={camaron} class="card-img-top" alt="fish"/>
                     <div class="card-body">
                         <p class="card-text">Mojarra Frita:
                         Whole fried tilapia served with rice pico de gallo and guacamole salad.</p>
