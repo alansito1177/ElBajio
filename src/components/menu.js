@@ -311,7 +311,7 @@ return  (
                     </div>
                         Steak and chicken with chorizo, pineapple, bell peppers, and onions topped with mozzarella cheese 
                 </div>
-                <div class="text-left">$25.99</div>
+                <div class="text-left">$16.99</div>
             </li>
             
             <h5 class="text-center text-success">Fajitas</h5>
