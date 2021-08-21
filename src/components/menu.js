@@ -355,7 +355,7 @@ return  (
             <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
                 <div class="ms-2 me-auto">
                     <div class="fw-bold">
-                        Fahitas Para Dos
+                        Fajitas Para Dos
                     </div>
                     Double portion of a fajitas of your choosing with mix bell peppers, onions with a side of rice, beans, and pico de gallo salad
                 </div>

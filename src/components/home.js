@@ -26,7 +26,7 @@ const Home = () => {
                 <div class="card bg-dark col-md-8 p-1 m-2">
                     <img src={fish} class="card-img-top" alt="fish"/>
                     <div class="card-body">
-                        <p class="card-text">Moharra Frita:
+                        <p class="card-text">Mojarra Frita:
                         Whole fried tilapia served with rice pico de gallo and guacamole salad.</p>
                     </div>
                 </div>
