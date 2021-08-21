@@ -21,47 +21,42 @@ const Home = () => {
                         Grilled steak cooked with onions, served with rice beans and guacamole.</p>
                     </div>
                 </div>
-                <div class="card bg-dark col-md-5 p-1">
-                    <img src={taco} class="card-img-top" alt="fish"/>
+                <div class="card bg-dark col-md-5 p-1 m-2">
+                    <img src={camaron} class="card-img-top" alt="fish"/>
                     <div class="card-body">
-                        <p class="card-text">Build your own Mexican Tacos: avocado, onions, cilantro, cucumber and spicy sauce.</p>
+                        <p class="card-text">Camarones a La Diabla:
+                        Shrimp and onions in a hot and spicy sauce served with rice, beans, and pico de gallo and guacamole salad.</p>
                     </div>
                 </div>
                 <div class="card bg-dark col-md-5 p-1 m-2">
                     <img src={fish} class="card-img-top" alt="fish"/>
                     <div class="card-body">
                         <p class="card-text">Mojarra Frita:
-                        Whole fried tilapia served with rice pico de gallo and guacamole salad.</p>
+                        Whole fried tilapia served with rice, beans, and pico de gallo.</p>
                     </div>
                 </div>
                 <div class="card bg-dark col-md-5 p-1 m-2">
                     <img src={cocktail} class="card-img-top" alt="fish"/>
                     <div class="card-body">
-                        <p class="card-text">Mojarra Frita:
-                        Whole fried tilapia served with rice pico de gallo and guacamole salad.</p>
+                        <p class="card-text">Cocktail de Camaron:
+                        Shrimp, tomato juice, pico de gallo,and avocado slices.</p>
                     </div>
                 </div>
                 <div class="card bg-dark col-md-5 p-1 m-2">
                     <img src={bistec} class="card-img-top" alt="fish"/>
                     <div class="card-body">
-                        <p class="card-text">Mojarra Frita:
+                        <p class="card-text">Bistec a la Mexicana:
                         Whole fried tilapia served with rice pico de gallo and guacamole salad.</p>
                     </div>
                 </div>
                 <div class="card bg-dark col-md-5 p-1 m-2">
                     <img src={puerco} class="card-img-top" alt="fish"/>
                     <div class="card-body">
-                        <p class="card-text">Mojarra Frita:
-                        Whole fried tilapia served with rice pico de gallo and guacamole salad.</p>
+                        <p class="card-text">Costillas de Puerco:
+                        Pig ribs served with rice, beans, and guacamole.</p>
                     </div>
                 </div>
-                <div class="card bg-dark col-md-5 p-1 m-2">
-                    <img src={camaron} class="card-img-top" alt="fish"/>
-                    <div class="card-body">
-                        <p class="card-text">Mojarra Frita:
-                        Whole fried tilapia served with rice pico de gallo and guacamole salad.</p>
-                    </div>
-                </div>
+                
             </div>
         </div>
     </div>)
