@@ -1,8 +1,6 @@
-import food from "../images/food.jpg";
 import logo from "../images/logo.png";
 import fish from "../images/fish.jpg";
 import carne from "../images/carne.jpg";
-import taco from "../images/taco.jpg";
 import bistec from "../images/bistec.jpg";
 import puerco from "../images/puerco.jpg";
 import cocktail from "../images/cocktail.jpg";
@@ -47,14 +45,14 @@ const Home = () => {
                     <img src={bistec} class="card-img-top" alt="fish"/>
                     <div class="card-body">
                         <p class="card-text">Bistec a la Mexicana:
-                        Whole fried tilapia served with rice pico de gallo and guacamole salad.</p>
+                        served with fries  rice and beans.</p>
                     </div>
                 </div>
                 <div class="card bg-dark col-md-5 p-1 m-2">
                     <img src={puerco} class="card-img-top" alt="fish"/>
                     <div class="card-body">
-                        <p class="card-text">Costillas de Puerco:
-                        Pig ribs served with rice, beans, and guacamole.</p>
+                        <p class="card-text">Costillas de Res Asadas:
+                        Cow ribs cut served with rice, beans, and vegetables.</p>
                     </div>
                 </div>
                 
