@@ -18,23 +18,15 @@ return  (
             </li>
             <h5 class="text-center text-success">Nachos</h5>
             
-            <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
-                <div class="ms-2 me-auto">
-                    <div class="fw-bold">
-                        Cheese Nachos
-                    </div>
-                        $1 for every extra topping
-                </div>
-                <div class="text-left">$5.75</div>
-            </li>
+            
             <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
                 <div class="ms-2 me-auto">
                     <div class="fw-bold text-start">
-                        Protein and Cheese
+                        Meat and Cheese Nachos
                     </div>
-                        protein choice of ground beef,<br/> grill chicken, or steak
+                        Choice of ground beef,<br/> grill chicken, or steak
                 </div>
-                <div class="text-left">$7.75</div>
+                <div class="text-left">$8.75</div>
             </li>
             <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
                 <div class="ms-2 me-auto">
@@ -46,15 +38,7 @@ return  (
                 </div>
                 <div class="text-left">$11.99</div>
             </li>
-            <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
-                <div class="ms-2 me-auto">
-                    <div class="fw-bold">
-                        Fajita Nachos
-                    </div>
-                    cheese nachos with grilled chicken<br/> or steak cooked with grilled onions and<br/> bell peppers
-                </div>
-                <div class="text-left">$11.49</div>
-            </li>
+           
             <h5 class="text-center text-success">Tex-Mex</h5>
             <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
                 <div class="ms-2 me-auto">
@@ -65,7 +49,7 @@ return  (
                      select meat, beans,  rice, cheese dip,<br/>
                       lettuce, shredded cheese, pico de gallo,<br/> and sour cream
                 </div>
-                <div class="text-left">$8.99</div>
+                <div class="text-left">$9.99</div>
             </li>
             <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
                 <div class="ms-2 me-auto">
@@ -78,7 +62,7 @@ return  (
                         and sour cream
 
                 </div>
-                <div class="text-left">$9.99</div>
+                <div class="text-left">$11.50</div>
             </li>
             <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
                 <div class="ms-2 me-auto">
@@ -123,7 +107,7 @@ return  (
                     Steak, chicken and shrimp with cheese dip on top
 
                 </div>
-                <div class="text-left">$10.99</div>
+                <div class="text-left">$11.99</div>
             </li>
             <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
                 <div class="ms-2 me-auto">
@@ -153,7 +137,7 @@ return  (
                     </div>
                         Rice, Grilled shrimp and cheese dip on top
                 </div>
-                <div class="text-left">$9.99</div>
+                <div class="text-left">$10.50</div>
             </li>
             <h5 class="text-center text-success">Quesadillas</h5>
             <p class="text-center text-success">(Can add a side of Rice and beans for $2)</p>
@@ -164,7 +148,7 @@ return  (
                     </div>
                     8”Flour tortilla, melted shredded cheese
                 </div>
-                <div class="text-left">$5.25</div>
+                <div class="text-left">$5.99</div>
             </li>
             <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
                 <div class="ms-2 me-auto">
@@ -173,7 +157,7 @@ return  (
                     </div>
                         Quesadilla filled with your choice protein <br/>of chicken or steak.
                 </div>
-                <div class="text-left">$8.49</div>
+                <div class="text-left">$9.50</div>
             </li>
             <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
                 <div class="ms-2 me-auto">
@@ -182,7 +166,7 @@ return  (
                     </div>
                         Quesadilla filled with veggies
                 </div>
-                <div class="text-right">$7.99</div>
+                <div class="text-right">$8.99</div>
             </li>
             <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
                 <div class="ms-2 me-auto">
@@ -208,11 +192,20 @@ return  (
             <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
                 <div class="ms-2 me-auto">
                     <div class="fw-bold">
+                        Bistec a la Mexicana
+                    </div>
+                        served with rice and beans
+                </div>
+                <div class="text-left">$18.00</div>
+            </li>
+            <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">
                         Carne Asada
                     </div>
                     Grilled steak cooked with onions ,served with rice beans and guacamole
                 </div>
-                <div class="text-left">$14.96</div>
+                <div class="text-left">$18.00</div>
             </li>
             <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
                 <div class="ms-2 me-auto">
@@ -221,7 +214,7 @@ return  (
                     </div>
                         2 grilled chicken breast served with rice and beans
                 </div>
-                <div class="text-left">$12.25</div>
+                <div class="text-left">$14.00</div>
             </li>
             <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
                 <div class="ms-2 me-auto">
@@ -230,7 +223,7 @@ return  (
                     </div>
                         2 breaded and fried chicken breast served with rice and beans
                 </div>
-                <div class="text-left">$12.99</div>
+                <div class="text-left">$14.00</div>
             </li>
             <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
                 <div class="ms-2 me-auto">
@@ -239,16 +232,25 @@ return  (
                     </div>
                         grilled chicken breast, bacon, pineapple,melted fresh mozzarella
                 </div>
-                <div class="text-left">$14.99</div>
+                <div class="text-left">$16.00</div>
             </li>
             <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
                 <div class="ms-2 me-auto">
                     <div class="fw-bold">
-                        Pollo o Camarones a La Diabla
+                        Camarones a La Diabla
                     </div>
-                        Sauteed Chicken or shrimp and onions in a hot and spicy sauce
+                        Sauteed shrimp and onions in a hot and spicy sauce
                 </div>
-                <div class="text-left">$14.99</div>
+                <div class="text-left">$16.00</div>
+            </li>
+            <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">
+                        Pollo a La Diabla
+                    </div>
+                        Sauteed chicken and onions in a hot and spicy sauce
+                </div>
+                <div class="text-left">$14.00</div>
             </li>
             <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
                 <div class="ms-2 me-auto">
@@ -257,7 +259,7 @@ return  (
                     </div>
                         Whole fried tilapia served with rice pico de gallo and guacamole salad
                 </div>
-                <div class="text-left">$13.00</div>
+                <div class="text-left">$14.00</div>
             </li>
             <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
                 <div class="ms-2 me-auto">
@@ -266,7 +268,7 @@ return  (
                     </div>
                         5 corn  chicken taquitos , topped with beans, lettuce, sour cream, cheese, and slice of tomato
                 </div>
-                <div class="text-left">$9.99</div>
+                <div class="text-left">$11.99</div>
             </li>
             <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
                 <div class="ms-2 me-auto">
@@ -275,7 +277,7 @@ return  (
                     </div>
                     3 crispy fried tortilla topped with beans, tinga chicken, cabbage, cheese, onions and slice of tomato
                 </div>
-                <div class="text-left">$9.99</div>
+                <div class="text-left">$10.99</div>
             </li>
             <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
                 <div class="ms-2 me-auto">
@@ -284,7 +286,7 @@ return  (
                     </div>
                     Red shrimp soup
                 </div>
-                <div class="text-left">$13.99</div>
+                <div class="text-left">$15.00</div>
             </li>
             <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
                 <div class="ms-2 me-auto">
@@ -293,7 +295,7 @@ return  (
                     </div>
                     Guajillo soup, seafood mix, crab legs and tilapia
                 </div>
-                <div class="text-left">$16.00</div>
+                <div class="text-left">$20.00</div>
             </li>
             <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
                 <div class="ms-2 me-auto">
@@ -302,7 +304,7 @@ return  (
                     </div>
                     Shrimp, tomato juice, pico de gallo,and avocado slices
                 </div>
-                <div class="text-left">$13.99</div>
+                <div class="text-left">$15.00</div>
             </li>
             <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
                 <div class="ms-2 me-auto">
@@ -311,7 +313,7 @@ return  (
                     </div>
                         Steak and chicken with chorizo, pineapple, bell peppers, and onions topped with mozzarella cheese 
                 </div>
-                <div class="text-left">$16.99</div>
+                <div class="text-left">$17.99</div>
             </li>
             
             <h5 class="text-center text-success">Fajitas</h5>
@@ -323,7 +325,7 @@ return  (
                     </div>
                         Grill chicken with mix bell peppers, onions with a side of rice, beans, and pico de gallo salad
                 </div>
-                <div class="text-left">$13.00</div>
+                <div class="text-left">$14.00</div>
             </li>
             <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
                 <div class="ms-2 me-auto">
@@ -332,7 +334,7 @@ return  (
                     </div>
                     Steak with mix bell peppers, onions with a side of rice, beans, and pico de gallo salad
                 </div>
-                <div class="text-left">$16.99</div>
+                <div class="text-left">$17.99</div>
             </li>
             <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
                 <div class="ms-2 me-auto">
@@ -346,11 +348,11 @@ return  (
             <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
                 <div class="ms-2 me-auto">
                     <div class="fw-bold">
-                        Steak and Chicken Fajita
+                        Texas Fajita
                     </div>
                     Steak and Grill Chicken with mix bell peppers, onions with a side of rice, beans, and pico de gallo salad
                 </div>
-                <div class="text-left">$16.99</div>
+                <div class="text-left">$17.99</div>
             </li>
             <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
                 <div class="ms-2 me-auto">
@@ -359,7 +361,7 @@ return  (
                     </div>
                     Double portion of a fajitas of your choosing with mix bell peppers, onions with a side of rice, beans, and pico de gallo salad
                 </div>
-                <div class="text-left">$25.99</div>
+                <div class="text-left">$28.99</div>
             </li>
             <h5 class="text-center text-success">Sides</h5>
             
@@ -417,7 +419,7 @@ return  (
                         Pico de Gallo
                     </div>
                 </div>
-                <div class="text-left">$1.00</div>
+                <div class="text-left">$1.50</div>
             </li>
             <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
                 <div class="ms-2 me-auto">
@@ -426,6 +428,24 @@ return  (
                     </div>
                 </div>
                 <div class="text-left">$1.50</div>
+            </li>
+            <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">
+                        Sauteed Veggies
+                    </div>
+                        
+                </div>
+                <div class="text-left">$4.99</div>
+            </li>
+            <li class="list-group-item text-white d-flex bg-dark justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">
+                        Cheese Dip
+                    </div>
+                        
+                </div>
+                <div class="text-left">$1.99</div>
             </li>
 
 
